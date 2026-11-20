@@ -1,0 +1,5 @@
+aws_region        = "ap-south-1"
+project_name      = "serverless-rag"
+knowledge_base_id = "REPLACE_WITH_YOUR_BEDROCK_KNOWLEDGE_BASE_ID"
+model_arn         = "REPLACE_WITH_SUPPORTED_BEDROCK_MODEL_ARN"
+allowed_origin    = "*"
